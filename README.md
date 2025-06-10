@@ -1,5 +1,5 @@
 <h1 align="center">Currently working on:</h1>
-<p align="center"><a href="https://houseofhikmah.org"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=FCBF47&center=true&width=435&lines=House+of+Hikmah" alt="Typing SVG" /></a>
+<p align="center"><a href="https://houseofhikmah.org" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=FCBF47&center=true&width=435&lines=House+of+Hikmah" alt="Typing SVG" /></a>
 <br><img src="https://github.com/user-attachments/assets/8758445f-6638-4d1e-9962-089f9f1bc825" alt="House of Hikmah"></p>
 
 <h1 align="center">🤳 Socials:</h1>
