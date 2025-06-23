@@ -2,9 +2,6 @@
 <p align="center"><a href="https://houseofhikmah.org" target="_blank" rel="noopener noreferrer"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=FCBF47&center=true&width=435&lines=House+of+Hikmah" alt="Typing SVG" /></a>
 <br><img src="https://github.com/user-attachments/assets/8758445f-6638-4d1e-9962-089f9f1bc825" alt="House of Hikmah"></p>
 
-<h1 align="center">🤳 Socials:</h1>
-<p align="center"><a href="https://instagram.com/faizal_zahid"><img width="auto" height="40px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a></p>
-
 <h1 align="center">👨‍💻 Tech Stack:</h1>
 <div align="center">
 <img width="auto" height="40px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -18,12 +15,6 @@
 <img width="auto" height="40px" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
 <img width="auto" height="40px" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
 <img width="auto" height="40px" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-<img width="auto" height="40px" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="Adobe After Effects">
-<img width="auto" height="40px" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator">
-<img width="auto" height="40px" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop">
-<img width="auto" height="40px" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
-<img width="auto" height="40px" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-<img width="auto" height="40px" src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="Gimp">
 <img width="auto" height="40px" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
 <img width="auto" height="40px" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
 <img width="auto" height="40px" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
