@@ -2,6 +2,23 @@
 <p align="center"><a href="https://houseofhikmah.org" target="_blank" rel="noopener noreferrer"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=FCBF47&center=true&width=435&lines=House+of+Hikmah" alt="Typing SVG" /></a>
 <br><img src="https://github.com/user-attachments/assets/8758445f-6638-4d1e-9962-089f9f1bc825" alt="House of Hikmah"></p>
 
+<h2 align="center">QUICK LINKS:</h2>
+<p align="center">1. <a href="https://houseofhikmah.org/IPTV">IPTV</a></p>
+<p align="center">2. <a href="https://houseofhikmah.org/BooksForAll">BooksForAll</a></p>
+<p align="center">3. <a href="https://houseofhikmah.org/SWORD">SWORD ∞ - Word Guessing Game</a></p>
+<p align="center">4. <a href="https://houseofhikmah.org/LEXICONQUEST">LEXICONQUEST - Language Guessing Game</a></p>
+<p align="center">5. <a href="https://houseofhikmah.org/SEMANTRICK">SEMANTRICK - Word Guessing Game</a></p>
+<p align="center">6. <a href="https://houseofhikmah.org/2025">What to Learn in 2025</a></p>
+<p align="center">7. <a href="https://houseofhikmah.org/mbti-test">MBTI Personality Test</a></p>
+
+<h2 align="center">TO DO:</h2>
+<p align="center">1. Publish basic FaizaLingo webpage</p>
+<p align="center">2. Kanji game</p>
+<p align="center">3. Pikuピク preview (still in concept)</p>
+<p align="center">4. Canjy (still in concept)</p>
+
+<br><p align="center">Any feedback or ideas, you may contact me through Google Form on the <a href="https://houseofhikmah.org/#contact">webpage</a> or directly <a href="https://docs.google.com/forms/d/e/1FAIpQLSc5aZUWygrB2WlEuI3EissN7dceZkYOmEb_SUuQRjG0K2DCEQ/viewform?embedded=true">here</a></p>
+
 <h1 align="center">👨‍💻 Tech Stack:</h1>
 <div align="center">
 <img width="auto" height="40px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
